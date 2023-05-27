@@ -1,0 +1,11 @@
+/ProjectN.sln
+/.vs
+/Intermediate
+/Saved
+/Build
+/Plugins
+*.sin
+*_BuiltData.uasset
+/.vscode
+/Content
+/Binaries
